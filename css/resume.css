@@ -47,6 +47,12 @@ p.lead {
   font-weight: 400;
 }
 
+p.leadnav {
+    font-size: 1.15rem;
+    font-weight: 400;
+    color: #fff
+}
+
 .subheading {
   text-transform: uppercase;
   font-weight: 500;
